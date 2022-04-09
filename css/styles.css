@@ -52,7 +52,7 @@ p {
   margin: 2px auto; }
 
 .about {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("images/portfolio-bg.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("images/hero.jpg");
   background-size: 80%;
   background-position: center;
   padding: 4rem; }
