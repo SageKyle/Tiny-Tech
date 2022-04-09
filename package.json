@@ -1,0 +1,19 @@
+{
+  "name": "tiny-tech",
+  "version": "1.0.0",
+  "description": "my web development portfolio",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/styles.css -w"
+  },
+  "keywords": [
+    "web",
+    "development",
+    "portfolio"
+  ],
+  "author": "Paul SaGe",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
